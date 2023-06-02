@@ -1,4 +1,20 @@
 import streamlit as st
+page_bg_img =f"""
+<style>
+[data-testid="stAppViewContainer"}{{
+background-image: url("https://wallpaperaccess.com/full/1325192.jpg");
+backgroung-size: cover;
+}}
+</style>
+"""
+
+
+
+
+
+
+
+
 import numpy as np
 import pandas as pd
 import seaborn as sns
