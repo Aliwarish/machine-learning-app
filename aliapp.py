@@ -1,12 +1,12 @@
 import streamlit as st
-page_bg_img =f"""
+page_bg_img =f'''
 <style>
 [data-testid="stAppViewContainer"}{{
 background-image: url("https://wallpaperaccess.com/full/1325192.jpg");
 backgroung-size: cover;
 }}
 </style>
-"""
+'''
 
 
 
