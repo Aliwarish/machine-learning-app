@@ -2,7 +2,7 @@ import streamlit as st
 page_bg_img = f"""
 <style>
 [data-testid="stAppViewContainer"]{{
-background-image: url("https://i.gifer.com/VJi.gif");
+background-image: url("https://mag.uchicago.edu/sites/default/files/22Winter_Golus_Lies-damned-lies-and-data.gif");
 backgroung-size: cover;
 }}
 
