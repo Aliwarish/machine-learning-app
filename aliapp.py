@@ -13,10 +13,10 @@ backgroung-size: cover;
    color:#db1665;
    }}
    
- .sidebar .sidebar-content {
-    background-image: linear-gradient(#2e7bcf,#2e7bcf);
+ [.sidebar .sidebar-content]{{
+   background-image: linear-gradient(#2e7bcf,#2e7bcf);
     color: white;
-}
+}}
 
 [data-testid="stMarkdown"]{{
     color:#0c0c0d;
