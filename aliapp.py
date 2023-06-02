@@ -34,7 +34,7 @@ from pycaret.classification import setup, compare_models, pull, save_model, Clas
 from pycaret.regression import setup, compare_models, pull, save_model, RegressionExperiment
 import base64
 
-st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.statcan.gc.ca%2Fen%2Fdata-science%2Fnetwork&psig=AOvVaw255ikqf9F-sh9rgVybsEq2&ust=1685811005820000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiuqsOFpf8CFQAAAAAdAAAAABAE")
+st.image("https://cdn-images-1.medium.com/max/767/1*U8JRk4OJhO82FDLXeBfWNQ.gif")
 st.title("Machine Learning App")
 
 if os.path.exists("sourcev.csv"):
