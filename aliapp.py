@@ -2,7 +2,7 @@ import streamlit as st
 page_bg_img = f"""
 <style>
 [data-testid="stAppViewContainer"]{{
-background-image: url("https://wallpaperaccess.com/full/1325192.jpg");
+background-image: url("https://user-images.githubusercontent.com/112406455/219126717-b00f77f9-f3f2-44f2-86ef-bbadebe6b0de.png");
 backgroung-size: cover;
 }}
 
@@ -10,8 +10,11 @@ backgroung-size: cover;
    background-color:#b80710;
 }}
 [data-testid="stSidebar"]{{
-   color:#0a060a;
+   color:#db1665;
    }}
+[data-testid="stMarkdown"]{{
+    color:#0c0c0d;
+}}
 
 </style>
 """
