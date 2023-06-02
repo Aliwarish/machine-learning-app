@@ -7,11 +7,17 @@ backgroung-size: cover;
 }}
 
 [data-testid="stHeader"]{{
-   background-color:#b80710;
+   background-color:#0523a8;
 }}
 [data-testid="stSidebar"]{{
    color:#db1665;
    }}
+   
+ .sidebar .sidebar-content {
+    background-image: linear-gradient(#2e7bcf,#2e7bcf);
+    color: white;
+}
+
 [data-testid="stMarkdown"]{{
     color:#0c0c0d;
 }}
@@ -33,7 +39,7 @@ from pycaret.classification import setup, compare_models, pull, save_model, Clas
 from pycaret.regression import setup, compare_models, pull, save_model, RegressionExperiment
 import base64
 
-st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX7twDvL6vfLEQQSRMmWqA7ZLdRuLk-iqQSg&usqp=CAU")
+st.image("https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/3/2022_3$largeimg_1263359305.jpg")
 st.title("Machine Learning App")
 
 if os.path.exists("sourcev.csv"):
