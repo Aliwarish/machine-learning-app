@@ -2,7 +2,7 @@ import streamlit as st
 page_bg_img = f"""
 <style>
 [data-testid="stAppViewContainer"]{{
-background-image: url("https://mag.uchicago.edu/sites/default/files/22Winter_Golus_Lies-damned-lies-and-data.gif");
+background-image: url("https://www.datatobiz.com/wp-content/uploads/2022/11/Blog-Featured-Images-GIF-2-1.gif");
 backgroung-size: cover;
 }}
 
