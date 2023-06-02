@@ -12,11 +12,6 @@ backgroung-size: cover;
 [data-testid="stSidebar"]{{
    color:#db1665;
    }}
-   
- [.sidebar .sidebar-content]{{
-   background-image: linear-gradient(#2e7bcf,#2e7bcf);
-    color: white;
-}}
 
 [data-testid="stMarkdown"]{{
     color:#0c0c0d;
@@ -39,7 +34,7 @@ from pycaret.classification import setup, compare_models, pull, save_model, Clas
 from pycaret.regression import setup, compare_models, pull, save_model, RegressionExperiment
 import base64
 
-st.image("https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/3/2022_3$largeimg_1263359305.jpg")
+st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.statcan.gc.ca%2Fen%2Fdata-science%2Fnetwork&psig=AOvVaw255ikqf9F-sh9rgVybsEq2&ust=1685811005820000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiuqsOFpf8CFQAAAAAdAAAAABAE")
 st.title("Machine Learning App")
 
 if os.path.exists("sourcev.csv"):
