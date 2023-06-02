@@ -10,7 +10,7 @@ backgroung-size: cover;
    background-color:#17fcf5;
 }}
 [data-testid="stSidebar"]{{
-   background-color:#dfb4fa;
+   background-color:#9ef7de;
    }}
 
 [data-testid="stMarkdown"]{{
