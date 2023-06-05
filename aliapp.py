@@ -1,12 +1,22 @@
 import streamlit as st
-page_image_bg = """
+page_bg_img = f"""
 <style>
 [data-testid="stAppViewContainer"]{{
-background-image: url("https://images.pexels.com/photos/15909555/pexels-photo-15909555/free-photo-of-stars-in-galaxy.jpeg?auto=compress&cs=tinysrgb&w=600");
-background-size: cover;
-#background-repeat: no repeat;
+background-image: url("https://images.pexels.com/photos/457713/pexels-photo-457713.jpeg?auto=compress&cs=tinysrgb&w=600");
+backgroung-size: cover;
 }}
 
+[data-testid="stHeader"]{{
+   background-color:#020024;
+}}
+
+[data-testid="stSidebar"]{{
+   background-color:##000000;
+}}
+
+[data-testid="stMarkdown"]{{
+    color:#0c0c0d;
+}}
 
 </style>
 """
