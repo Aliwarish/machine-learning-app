@@ -17,6 +17,10 @@ backgroung-size: cover;
     color:#0c0c0d;
 }}
 
+div.css-5rimss eqr7zpz4{
+ background-color: #f5f5f5;
+}
+
 </style>
 """
 st.markdown(page_bg_img, unsafe_allow_html=True)
