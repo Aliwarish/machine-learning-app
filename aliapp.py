@@ -1,15 +1,23 @@
 import streamlit as st
-page_bg_img = f"""
+page_image_bg = f"""
 <style>
 [data-testid="stAppViewContainer"]{{
-background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fislamic-background&psig=AOvVaw2zQPDyTWjkdEihoVJwimIF&ust=1686052352653000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMicrs-IrP8CFQAAAAAdAAAAABAr");
+background-image: url("https://th.bing.com/th/id/OIP.OV12wNZNKYz-m0Hs-TA7SQHaEo?pid=ImgDet&rs=1");
 background-size: cover;
+background-repeat: no repeat;
 }}
 
 [data-testid="stHeader"]{{
-   background-color:#020024;
+background-image: url("https://th.bing.com/th/id/OIP.OV12wNZNKYz-m0Hs-TA7SQHaEo?pid=ImgDet&rs=1");
+background-size: cover;
+background-repeat: no repeat;
 }}
 
+[data-testid="stSidebar"]{{
+background-image: url("https://static.vecteezy.com/system/resources/previews/000/235/624/original/cute-soft-color-subtle-pattern-background-vector.jpg");
+background-size: cover;
+background-repeat: no repeat;
+}}
 </style>
 """
 st.markdown(page_bg_img, unsafe_allow_html = True)
