@@ -35,7 +35,7 @@ from pycaret.classification import setup, compare_models, pull, save_model, Clas
 from pycaret.regression import setup, compare_models, pull, save_model, RegressionExperiment
 import base64
 
-st.image("https://e7.pngegg.com/pngimages/881/801/png-clipart-data-analysis-data-science-analytics-analyst-text-logo.png")
+st.image("https://data-science-blog.com/en/wp-content/uploads/sites/4/2020/11/happy-coder.gif")
 st.title("Machine Learning App")
 
 if os.path.exists("sourcev.csv"):
