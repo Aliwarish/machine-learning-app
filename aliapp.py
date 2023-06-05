@@ -2,7 +2,7 @@ import streamlit as st
 page_image_bg = f"""
 <style>
 [data-testid="stAppViewContainer"]{{
-background-image: url("https://e0.pxfuel.com/wallpapers/1007/779/desktop-wallpaper-premium-vector-of-mix-of-pastel-leaves-design-resource-2367153-pastel-background-minimalist-abstract-iphone-thumbnail.jpg");
+background-image: url("https://e1.pxfuel.com/desktop-wallpaper/215/317/desktop-wallpaper-islamic-for-pc-allah-islamic-for-background-thumbnail.jpg");
 background-size: cover;
 background-repeat: no repeat;
 }}
