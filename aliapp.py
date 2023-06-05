@@ -3,7 +3,7 @@ page_bg_img = f"""
 <style>
 [data-testid="stAppViewContainer"]{{
 background-image: url("https://images.pexels.com/photos/457713/pexels-photo-457713.jpeg?auto=compress&cs=tinysrgb&w=600");
-backgroung-size: cover;
+background-size: cover;
 }}
 
 [data-testid="stHeader"]{{
@@ -12,7 +12,7 @@ backgroung-size: cover;
 
 </style>
 """
-st.markdown(page_image_bg, unsafe_allow_html= True)
+st.markdown(page_image_bg, unsafe_allow_html = True)
 import numpy as np
 import pandas as pd
 import seaborn as sns
