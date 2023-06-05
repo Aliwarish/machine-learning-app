@@ -8,7 +8,7 @@ background-repeat: no repeat;
 }}
 
 [data-testid="stHeader"]{{
-background-image: url("https://th.bing.com/th/id/OIP.OV12wNZNKYz-m0Hs-TA7SQHaEo?pid=ImgDet&rs=1");
+background-image: url("https://global.discourse-cdn.com/business7/uploads/streamlit/original/3X/5/3/53d052dd9cb413893695f81eb3e524a955a96970.jpeg");
 background-size: cover;
 background-repeat: no repeat;
 }}
