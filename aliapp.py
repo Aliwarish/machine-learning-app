@@ -1,5 +1,5 @@
 import streamlit as st
-page_bg_img = f """
+page_bg_img = f"""
 <style>
 [data-testid="stAppViewContainer"]{{
 background-image: url("https://images.pexels.com/photos/457713/pexels-photo-457713.jpeg?auto=compress&cs=tinysrgb&w=600");
@@ -12,7 +12,7 @@ background-size: cover;
 
 </style>
 """
-st.markdown(page_image_bg, unsafe_allow_html = True)
+st.markdown(page_bg_img, unsafe_allow_html = True)
 import numpy as np
 import pandas as pd
 import seaborn as sns
