@@ -2,7 +2,7 @@ import streamlit as st
 page_image_bg = f"""
 <style>
 [data-testid="stAppViewContainer"]{{
-background-image: url("https://e1.pxfuel.com/desktop-wallpaper/255/964/desktop-wallpaper-islam-powerpoint-templates-background-islam-thumbnail.jpg");
+background-image: url("https://e0.pxfuel.com/wallpapers/153/254/desktop-wallpaper-the-insane-fractalling-ceiling-of-the-registan-mosque-in-samarkand-uzbekistan-it-s-gold-plated-islamic-art-background-islamic-architecture-thumbnail.jpg");
 background-size: cover;
 background-repeat: no repeat;
 }}
