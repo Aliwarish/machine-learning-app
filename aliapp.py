@@ -2,7 +2,7 @@ import streamlit as st
 page_image_bg = f"""
 <style>
 [data-testid="stAppViewContainer"]{{
-background-image: url("https://e0.pxfuel.com/wallpapers/454/495/desktop-wallpaper-premium-vector-of-golden-mandala-on-white-background-vector-555649-flower-graphic-design-islamic-patterns-islamic-pattern.jpg");
+background-image: url("https://e0.pxfuel.com/wallpapers/608/871/desktop-wallpaper-traditional-floral-background-set-islamic-art-pattern-pattern-art-poster-background-design-islamic-white-thumbnail.jpg");
 background-size: cover;
 background-repeat: no repeat;
 }}
