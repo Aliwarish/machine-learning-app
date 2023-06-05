@@ -14,7 +14,7 @@ from pycaret.regression import setup, compare_models, pull, save_model, Regressi
 import base64
 
 with open("style.css")as f:
- st.markdown(f"<style>{f.read()}</style>”, unsafe_allow_html = True)
+ st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html = True)
 
 st.image("https://cdn-images-1.medium.com/max/767/1*U8JRk4OJhO82FDLXeBfWNQ.gif")
 st.title("Machine Learning App")
