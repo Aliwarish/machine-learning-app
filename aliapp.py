@@ -20,7 +20,7 @@ background-repeat: no repeat;
 }}
 </style>
 """
-st.markdown(page_bg_img, unsafe_allow_html = True)
+st.markdown(page_image_bg , unsafe_allow_html = True)
 import numpy as np
 import pandas as pd
 import seaborn as sns
