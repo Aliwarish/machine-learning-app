@@ -2,7 +2,7 @@ import streamlit as st
 page_image_bg = f"""
 <style>
 [data-testid="stAppViewContainer"]{{
-background-image: url("https://e0.pxfuel.com/wallpapers/301/789/desktop-wallpaper-calligraphy-islamic-calligraphy-painting-islamic-art-thumbnail.jpg");
+background-image: url("https://e1.pxfuel.com/desktop-wallpaper/255/964/desktop-wallpaper-islam-powerpoint-templates-background-islam-thumbnail.jpg");
 background-size: cover;
 background-repeat: no repeat;
 }}
