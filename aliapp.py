@@ -2,7 +2,7 @@ import streamlit as st
 page_image_bg = f"""
 <style>
 [data-testid="stAppViewContainer"]{{
-background-image: url("https://e0.pxfuel.com/wallpapers/153/254/desktop-wallpaper-the-insane-fractalling-ceiling-of-the-registan-mosque-in-samarkand-uzbekistan-it-s-gold-plated-islamic-art-background-islamic-architecture-thumbnail.jpg");
+background-image: url("https://global.discourse-cdn.com/business7/uploads/streamlit/original/3X/5/3/53d052dd9cb413893695f81eb3e524a955a96970.jpeg");
 background-size: cover;
 background-repeat: no repeat;
 }}
