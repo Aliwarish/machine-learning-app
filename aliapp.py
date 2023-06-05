@@ -1,29 +1,4 @@
 import streamlit as st
-page_bg_img = f"""
-<style>
-[data-testid="stAppViewContainer"]{{
-background-image: url("https://wallpaperaccess.com/full/2481652.jpg");
-backgroung-size: cover;
-}}
-
-[data-testid="stHeader"]{{
-   background-color:#17fcf5;
-}}
-[data-testid="stSidebar"]{{
-   background-color:#9ef7de;
-   }}
-
-[data-testid="stMarkdown"]{{
-    color:#0c0c0d;
-}}
-
-div.css-5rimss eqr7zpz4{{
- background-color: #f5f5f5;
-}}
-
-</style>
-"""
-st.markdown(page_bg_img, unsafe_allow_html=True)
 import numpy as np
 import pandas as pd
 import seaborn as sns
@@ -37,6 +12,9 @@ import pycaret
 from pycaret.classification import setup, compare_models, pull, save_model, ClassificationExperiment
 from pycaret.regression import setup, compare_models, pull, save_model, RegressionExperiment
 import base64
+
+with open(‘style.css’)as f:
+ st.markdown(f”<style>{f.read()}</style>”, unsafe_allow_html = True)
 
 st.image("https://cdn-images-1.medium.com/max/767/1*U8JRk4OJhO82FDLXeBfWNQ.gif")
 st.title("Machine Learning App")
