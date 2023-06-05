@@ -4,7 +4,7 @@ page_image_bg = """
 [data-testid="stAppViewContainer"]{{
 background-image: url("https://images.pexels.com/photos/15909555/pexels-photo-15909555/free-photo-of-stars-in-galaxy.jpeg?auto=compress&cs=tinysrgb&w=600");
 background-size: cover;
-background-repeat: no repeat;
+#background-repeat: no repeat;
 }}
 
 
