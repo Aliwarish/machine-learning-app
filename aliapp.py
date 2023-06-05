@@ -2,7 +2,7 @@ import streamlit as st
 page_image_bg = """
 <style>
 [data-testid="stAppViewContainer"]{{
-background-image: url("https://www.pexels.com/photo/bokeh-photography-457713/");
+background-image: url("https://images.pexels.com/photos/457713/pexels-photo-457713.jpeg?auto=compress&cs=tinysrgb&w=600");
 background-size: cover;
 background-repeat: no repeat;
 }}
