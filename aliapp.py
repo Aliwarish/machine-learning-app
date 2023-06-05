@@ -10,14 +10,6 @@ backgroung-size: cover;
    background-color:#020024;
 }}
 
-[data-testid="stSidebar"]{{
-   background-color:##000000;
-}}
-
-[data-testid="stMarkdown"]{{
-    color:#0c0c0d;
-}}
-
 </style>
 """
 st.markdown(page_image_bg, unsafe_allow_html= True)
