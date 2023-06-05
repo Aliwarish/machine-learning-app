@@ -17,9 +17,9 @@ backgroung-size: cover;
     color:#0c0c0d;
 }}
 
-div.css-5rimss eqr7zpz4{
+div.css-5rimss eqr7zpz4{{
  background-color: #f5f5f5;
-}
+}}
 
 </style>
 """
